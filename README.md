@@ -24,6 +24,8 @@
 6. **If agreed, ctznfun sends a payment link**
 
    * Multichain support (OKX Wallet API: USDT, USDC, BNB, ETH, SOL, BTC)
+   * Includes: contributor reward + platform fee + buffer + AI cost
+   * Multichain support (OKX Wallet API)
 
 7. **Once payment is confirmed**, backend will:
 
