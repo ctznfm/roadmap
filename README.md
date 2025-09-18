@@ -58,11 +58,17 @@
 
 ---
 
-**9. Messages for Each User**
+9. **Messages for Each User**
 
    * Each user can send messages.
    * Users who follow each other can send and receive messages directly.
    * If one user follows without a follow-back, messages go to the **requests** inbox.
+
+---
+
+10. **Share & Reposts**
+
+   * Each user can share and repost the content.
 
 ---
 
