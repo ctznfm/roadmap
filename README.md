@@ -1,65 +1,65 @@
-## FLOW: `@ctznfun` Campaign Lifecycle
+## FLOW: `citizen.fm` Content Lifecycle
 
-1. **User tags `@ctznfun` on X (Twitter)**
+1. **User creates an account on citizen.fm**
 
-> Example: “Hey @ctznfun, help me promote my new token!”
+   * Account automatically becomes a **tokenized identity** (creator coin).
+   * User gets referral link (tree system ready).
 
-2. **ctznfun bot auto-replies**
+---
 
-> “Hi! Can you describe the type of campaign you want to launch?”
+2. **User uploads content (video / image / live broadcast)**
 
-3. **Client explains their project and objective**
+   * Content stored + hashed onchain for transparency.
+   * Optional: creator can **toggle “Tokenize Content”** → mint as NFT.
 
-   * Project name, link, goal (awareness / followers / traffic / holders)
+---
 
-4. **ctznfun AI follows up to understand the context**
+3. **Followers interact with content**
 
-   * Asks deeper questions: target market? chain? tone? competitors?
+   * Every view, like, comment, or tip is recorded as an **onchain action**.
+   * Engagement contributes to creator’s **XP + badge progression**.
 
-5. **Set marketing budget:**
+---
 
-   * ✅ If the user **sets a max budget** → AI calculates best content plan within that budget
-   * ❌ If the user **does not set a budget** → AI recommends a budget based on project needs
+4. **citizen.fm calculates engagement rewards**
 
-6. **If agreed, ctznfun sends a payment link**
+   * Pool comes from **1% trading fee** (50% treasury, 50% rewards).
+   * Rewards distributed in **USDC/SOL** directly to user wallets.
+   * Leaderboard updates in real-time.
 
-   * Multichain support (OKX Wallet API: USDT, USDC, BNB, ETH, SOL, BTC, more)
-   * Includes: contributor reward + platform fee + buffer + AI cost
+---
 
-7. **Once payment is confirmed**, backend will:
+5. **Referral tree auto-tracking**
 
-   * Generate campaign ID + content plan (via AI)
-   * Store all campaign content in the dashboard
+   * If new users join via referral → original inviter gets **referral XP + fee share**.
+   * Transparent onchain record for every referral.
 
-8. **ctznfun sends the dashboard link to the user**
+---
 
-   * User must log in via X OAuth + ctzn.fun create a new wallet
+6. **Creator monetization options**
 
-9. **Inside the dashboard, user can customize:**
+   * **Tips & micropayments** from fans (in USDC/SOL).
+   * **Staking creator coin** → fans stake to earn % of trading fee rewards.
+   * **Boost/Ads** → creators can boost/ads on users feed.
 
-   * Post via: `@ctznfun` or user’s own account
-   * Set post schedule (date + time)
-   * Upload image/video cover
-   * Edit caption and hashtags
-   * Add partner/KOL tags
+---
 
-10. **User clicks “Start Campaign”** on the dashboard or replies “Start Campaign” on X
+7. **Gamified & leaderboard system**
 
-11. **ctznfun starts tracking engagement & validating contributors:**
+   * Daily/weekly missions: watch, like, comment, invite → earn bonus XP.
+   * Top creators & contributors featured in **global leaderboard**.
 
-* Check contributor followers (`min 50–100`)
-* Verify account age (not newly created)
-* Detect quote tweets with meaningful captions (at least 3 non-spam words)
-* Detect relevant, original comments (no copy-paste)
-* Exclude spam retweets (mass RT behavior from bots)
+---
 
-12. **Point system is automatically activated:**
+8. **Fiat on/off ramp for mass adoption**
 
-* Like = 1 pt, RT = 2 pts, Quote = 3 pts, Comment = 2 pts
-* 500 pts = \$5 reward (default)
-* Calculated every 24 hours
+   * Users can top-up via card/e-wallet → auto convert to USDC/SOL.
+   * Withdraw to fiat once rewards > minimum threshold.
 
-13. **If a contributor’s wallet reaches 500 pts (minimum threshold):**
+---
 
-* Reward is converted to USDT/USDC (via OKX API)
-* User can withdraw funds anytime if balance > \$5
+### 🎯 Key Outcome
+
+* **Creators** monetize via tips, ads, content tokenization.
+* **Users** earn rewards from gamified, staking, referrals.
+* **Ecosystem** runs sustainable via 1% trading fee + ad revenue.
