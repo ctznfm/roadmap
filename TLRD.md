@@ -51,4 +51,4 @@
 
 14. **Share & Reposts**
 
-   * Each user can share and repost the content.
+    * Each user can share and repost the content.
