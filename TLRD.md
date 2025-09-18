@@ -48,3 +48,7 @@
 13. **Messages**
 
     * Each users can send a messages.
+
+14. **Share & Reposts**
+
+   * Each user can share and repost the content.
