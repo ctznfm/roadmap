@@ -45,6 +45,6 @@
 
     * Fans stake creator tokens to earn a share of trading fee rewards.
 
-12. **Fiat On/Off Ramp**
+13. **Messages**
 
-    * Easy top-up and withdrawals via e-wallets or cards, enabling mass adoption.
+    * Each users can send a messages.
