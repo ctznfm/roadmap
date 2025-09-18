@@ -58,6 +58,12 @@
 
 ---
 
+9. **Messages for each users**
+
+   * Each users can send a message.
+
+---
+
 ### 🎯 Key Outcome
 
 * **Creators** monetize via tips, ads, content tokenization.
