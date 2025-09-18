@@ -68,7 +68,8 @@
 
 10. **Share & Reposts**
 
-   * Each user can share and repost the content.
+   * Users can share or repost content to their own feed/messages.
+   * Reposted content credits the original creator and retains engagement tracking.
 
 ---
 
