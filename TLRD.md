@@ -1,4 +1,4 @@
-## TLRD `citizen.fm` — Core Features
+# TL;DR `citizen.fm` — Core Features
 
 1. **TikTok-like UI/UX**
 
@@ -12,10 +12,10 @@
 
    * Onchain referral tree structure with transparent, multi-level incentives.
 
-4. **1% Trading Fee (50:50 Split)**
+4. **Trading Fee (50:50 Split)**
 
-   * Fees split equally: 50% to treasury/platform, 50% to creators rewards.
-   * Treasury/platform split 20% fee will be distribute to referrals, gamified, or new features.
+   * 1% fees split equally: 50% to treasury/platform, 50% to creators’ rewards.
+   * Treasury share (20%) can be allocated to referrals, gamified rewards, or new features.
 
 5. **Multi-format Content**
 
@@ -27,7 +27,7 @@
 
 7. **Ad Slots in Feed**
 
-   * Native advertising space for creators, brands and sponsors, with revenue distribution.
+   * Native advertising space for creators, brands, and sponsors, with revenue distribution.
 
 8. **Tips & Micropayments**
 
@@ -45,10 +45,35 @@
 
     * Fans stake creator tokens to earn a share of trading fee rewards.
 
-13. **Messages**
+12. **Messaging**
 
-    * Each users can send a messages.
+    * Users can send messages.
+    * Followers can chat directly; non-followers land in requests.
 
-14. **Share & Reposts**
+13. **Share & Reposts**
 
-    * Each user can share and repost the content.
+    * Users can share and repost content with credit + engagement tracking.
+
+14. **Fiat On/Off Ramp**
+
+    * Easy top-up with card/e-wallet → auto-convert to USDC/SOL.
+    * Withdraw back to fiat once minimum threshold is reached.
+    
+15. **eCommerce Layer**
+  
+    * Creators/brands can sell physical & digital products.
+    * Token/NFT staking unlocks **discounts or exclusive items**.
+
+16. **AI Copilot**
+  
+    * Assists users in creating content (text, image, video).
+    * Smart recommendations and discovery (e.g., trends, hashtags, products).
+
+17. **Free vs. Premium Tiers**
+
+    * Premium users unlock badges, exclusive content, community spaces, and analytics.
+
+18. **Mini Apps SDK**
+  
+    * Developers can build apps on top of citizen.fm.
+    * SDK for smooth integration with the ecosystem.
