@@ -49,6 +49,7 @@
 * [ ] Fiat on/off ramp (top-up via card/e-wallet; withdraw USDC/SOL → fiat).
 * [ ] AI Copilot (generate text, image, video; AI Q&A + content ideas).
 * [ ] eCommerce module (sell digital/physical products via USDC/SOL).
+* [ ] Smart search with image or text, add some information from AI.
 * [ ] Token staking → unlock creator discounts & perks.
 * [ ] Advanced analytics (creator & campaign dashboards).
 * [ ] citizen.fm pay can pay with crypto.
@@ -62,6 +63,7 @@
 **Items:**
 
 * [ ] Creator coin staking (fans stake into creator coins → share trading fees).
+* [ ] Donation or collaboration projects with custom trading fee sharing.
 * [ ] Boost/ads system (creators/projects pay for boosted exposure).
 * [ ] SDK & Mini Apps (developers build apps on top of Citizen.fm).
 * [ ] Multi-language support & global scaling.
