@@ -63,7 +63,7 @@
 * [ ] SDK + Mini Apps (developers build on top of citizen.fm).
 * [ ] Multi-language support for global scaling.
 
-⚡ **Phase Summary**
+## ⚡ **Phase Summary**
 
 * **Phase 1:** Foundation → tokenized accounts, referrals, feed, messaging, reposts, coins.
 * **Phase 2:** Core economy → rewards, tipping, NFT content, premium tiers.
