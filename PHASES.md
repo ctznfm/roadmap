@@ -16,6 +16,8 @@
 * [ ] Content repost/share (retains original creator engagement credit).
 * [ ] Top-up USDC/SOL to wallet.
 * [ ] Buy/sell creator coin directly from the app.
+* [ ] Search content and users.
+* [ ] Basic reporting (NFSW, spam, abuse).
 
 ---
 
