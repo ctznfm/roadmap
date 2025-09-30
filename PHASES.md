@@ -20,6 +20,8 @@
 * [ ] Repost/share content (keeps credit with original creator).
 * [ ] In-app wallet top-up with USDC/SOL.
 * [ ] Buy/sell creator coins directly in the app.
+* [ ] 1% trading fee mechanism (50% treasury / 50% rewards).
+* [ ] Rewards distribution (on-chain, in USDC/SOL).
 * [ ] Search for users and content.
 * [ ] Basic moderation/reporting (NSFW, spam, abuse).
 
@@ -29,13 +31,13 @@
 
 **Items:**
 
-* [ ] Engagement → automated rewards distribution (on-chain, in USDC/SOL).
-* [ ] 1% trading fee mechanism (50% treasury / 50% rewards).
 * [ ] Tips & micropayments (fans send USDC/SOL directly to creators).
 * [ ] Gamified XP + badges (levels, progression, achievements).
 * [ ] Real-time global leaderboard.
+* [ ] Ads or boost content/tokens.
 * [ ] Content tokenization: option to mint uploads as NFTs.
-* [ ] Free vs Premium tiers (verified badge, exclusive content, perks, live features).
+* [ ] Premium tiers (verified badge, exclusive content, live features, analytics, custom design).
+* [ ] Advanced analytics (creator dashboards, campaign insights).
 
 ## **Phase 3 — Growth Engine**
 
@@ -48,7 +50,6 @@
 * [ ] eCommerce module (sell digital & physical products in USDC/SOL).
 * [ ] Smart search (image/text queries, enhanced with AI).
 * [ ] Token staking → unlock discounts and creator perks.
-* [ ] Advanced analytics (creator dashboards, campaign insights).
 * [ ] citizen.fm Pay — seamless checkout with crypto.
 
 ## **Phase 4 — Expansion & Ecosystem**
