@@ -5,19 +5,22 @@
 🎯 Goal: Validate the core concept (account = token, referral, basic content + engagement).
 
 **Items:**
-
-* [ ] User account → automatically becomes a tokenized identity (creator coin).
-* [ ] Referral link & tree system (basic on/offchain tracking).
-* [ ] Content upload (video / image; offchain storage, optional onchain hash).
+* [ ] Sign-In/Sign-Up using Privy.
+* [ ] User account → becomes a tokenized identity (creator coin).
+* [ ] User profile page.
+* [ ] Basic notifications.
+* [ ] Basic creator coin information.
+* [ ] Referral link & tree system (basic on/off-chain tracking).
+* [ ] Content upload (video/image; off-chain storage, optional on-chain hash).
 * [ ] Basic feed (scrollable, trending/manual sort).
-* [ ] Engagement tracking (views, likes, comments → offchain DB first).
+* [ ] Engagement tracking (views, likes, comments → off-chain database first).
 * [ ] Simple leaderboard (XP calculated manually or periodically).
 * [ ] Messaging system (chat & inbox with follow/follow-back rules).
 * [ ] Content repost/share (retains original creator engagement credit).
-* [ ] Top-up USDC/SOL to wallet.
-* [ ] Buy/sell creator coin directly from the app.
-* [ ] Search content and users.
-* [ ] Basic reporting (NFSW, spam, abuse).
+* [ ] Wallet top-up with USDC/SOL.
+* [ ] Buy/sell creator coin directly in the app.
+* [ ] Search for content and users.
+* [ ] Basic moderation/reporting (NSFW, spam, abuse).
 
 ---
 
@@ -33,7 +36,7 @@
 * [ ] Gamified XP & badges (levels, progression).
 * [ ] Real-time global leaderboard.
 * [ ] Enable content as NFTs with optional toggle.
-* [ ] Free vs Premium tiers (verified badges, exclusive content, perks).
+* [ ] Free vs Premium tiers (verified badges, exclusive content, perks, live).
 
 ---
 
