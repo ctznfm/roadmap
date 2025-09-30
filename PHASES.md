@@ -27,6 +27,7 @@
 * [ ] Tips & micropayments (fans send USDC/SOL directly to creators).
 * [ ] Gamified XP & badges (levels, progression).
 * [ ] Real-time global leaderboard.
+* [ ] Enable content as NFTs with optional toggle.
 * [ ] Free vs Premium tiers (verified badges, exclusive content, perks).
 
 ---
@@ -61,8 +62,7 @@
 * **Phase 1:** Core foundation → tokenized accounts, referral system, basic feed.
 * **Phase 2:** Economy layer → automated rewards, tipping, premium tiers.
 * **Phase 3:** Growth layer → fiat ramps, AI, eCommerce, messaging.
-* **Phase 4:** Ecosystem → SDK, staking, ads, DAO, cross-platform expansion.
-
+* **Phase 4:** Ecosystem → SDK, staking, ads.
 ---
 
 Would you like me to **turn this into a table (Phases vs Features)** so it’s visually cleaner for a pitch deck / roadmap slide?
