@@ -51,6 +51,7 @@
 * [ ] eCommerce module (sell digital/physical products via USDC/SOL).
 * [ ] Token staking → unlock creator discounts & perks.
 * [ ] Advanced analytics (creator & campaign dashboards).
+* [ ] citizen.fm pay can pay with crypto.
 
 ---
 
