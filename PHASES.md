@@ -14,6 +14,7 @@
 * [ ] Simple leaderboard (XP calculated manually or periodically).
 * [ ] Messaging system (chat & inbox with follow/follow-back rules).
 * [ ] Content repost/share (retains original creator engagement credit).
+* [ ] Top-up USDC/SOL to wallet.
 * [ ] Buy/sell creator coin directly from the app.
 
 ---
