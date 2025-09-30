@@ -64,5 +64,3 @@
 * **Phase 3:** Growth layer → fiat ramps, AI, eCommerce, messaging.
 * **Phase 4:** Ecosystem → SDK, staking, ads.
 ---
-
-Would you like me to **turn this into a table (Phases vs Features)** so it’s visually cleaner for a pitch deck / roadmap slide?
